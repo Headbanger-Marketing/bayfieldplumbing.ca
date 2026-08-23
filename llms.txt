@@ -1,2 +1,25 @@
 # Bayfield Plumbing
-HVAC services in Ontario.
+
+> Bayfield Plumbing is a local HVAC company serving Bayfield, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 565-0204  |  Email: contact@bayfieldplumbing.ca  |  Website: https://bayfieldplumbing.ca
+
+## Key pages
+
+- [Home](https://bayfieldplumbing.ca/): Bayfield Plumbing homepage with service overview and FAQ
+- [About](https://bayfieldplumbing.ca/about/): About the company and service area
+- [Contact](https://bayfieldplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://bayfieldplumbing.ca/services/water-heaters/): Water Heaters in Bayfield, Ontario
+- [Drain Cleaning](https://bayfieldplumbing.ca/services/drain-cleaning/): Drain Cleaning in Bayfield, Ontario
+- [Repiping](https://bayfieldplumbing.ca/services/repiping/): Repiping in Bayfield, Ontario
+- [Fixtures & Toilets](https://bayfieldplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Bayfield, Ontario
+- [Leak Detection & Repair](https://bayfieldplumbing.ca/services/leak-detection/): Leak Detection & Repair in Bayfield, Ontario
+- [Sump Pumps & Backwater](https://bayfieldplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Bayfield, Ontario
+- [Water Softeners & Filtration](https://bayfieldplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Bayfield, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Bayfield are answered on the homepage.
